@@ -37,17 +37,27 @@
   </entry>
   
   <entry>
-    <title>JAVA基础</title>
+    <title>JAVA面试</title>
     <link href="http://example.com/2021/05/02/JAVA%E5%9F%BA%E7%A1%80/"/>
     <id>http://example.com/2021/05/02/JAVA%E5%9F%BA%E7%A1%80/</id>
     <published>2021-05-01T16:59:48.000Z</published>
-    <updated>2021-06-02T16:59:55.753Z</updated>
+    <updated>2021-06-02T17:49:21.469Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="1-对于面向对象的理解"><a href="#1-对于面向对象的理解" class="headerlink" title="1_对于面向对象的理解"></a>1_对于面向对象的理解</h1><blockquote><p><strong>面向对象</strong>  (Object Oriented,OO) 的思想对软件开发相当重要，它的概念和应用甚至已超越了程序设计和软件开发，扩展到如数据库系统、交互式界面、应用结构、应用平台、分布式系统、网络管理结构、CAD 技术、人工智能等领域。面向对象是一种 对现实世界理解和抽象的方法，是计算机编程技术发展到一定阶段后的产物。<strong>面向过程</strong>(Procedure Oriented) 是一种 <strong>以过程为中心</strong> 的编程思想。这些都是以什么正在发生为主要目标进行编程，不同于面向对象的是谁在受影响。与面向对象明显的不同就是<br><em><strong>封装、继承、类</strong></em>。无论是在软件开发还是在实际工作中，深入地理解软件开发的思想都非常有必要。</p><blockquote><p>作者：力扣（LeetCode）<br>链接：<a href="https://www.zhihu.com/question/27468564/answer/757537214">https://www.zhihu.com/question/27468564/answer/757537214</a><br>来源：知乎<br>著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</p></blockquote></blockquote><p>提到<strong>面向对象</strong>自然需要想到<strong>面向过程</strong>。在我看来，面向过程是将自身程序带入中，切身去执行每一步实现程序最终目的的过程,即以过程为中心。面向对象就是如果你要完成某个问题，你需要让谁去完成这个事情，你是一名组织者。</p><p>面向对象具有<strong>继承</strong>、<strong>封装</strong>和<strong>多态</strong> 3 个核心特性。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;1-对于面向对象的理解&quot;&gt;&lt;a href=&quot;#1-对于面向对象的理解&quot; class=&quot;headerlink&quot; title=&quot;1_对于面向对象的理解&quot;&gt;&lt;/a&gt;1_对于面向对象的理解&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;面向对象&lt;/strong&gt;</summary>
+      
     
     
     
     
+    <category term="JAVA" scheme="http://example.com/tags/JAVA/"/>
     
-    <category term="JAVA||面试" scheme="http://example.com/tags/JAVA-%E9%9D%A2%E8%AF%95/"/>
+    <category term="面试" scheme="http://example.com/tags/%E9%9D%A2%E8%AF%95/"/>
     
   </entry>
   
