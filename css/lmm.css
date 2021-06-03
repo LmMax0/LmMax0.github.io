@@ -1,3 +1,17 @@
 #page-header{
-    background-image:url('../img/background-img.jpeg');
+    /* background-image:url('http://localhost:4000/img/background-img.jpeg'); */
+    /* background-image: none; */
+    background-image: url('http://localhost:4000/img/1.png');
+    background-color: unset;
+}
+
+#body-wrap{
+    background: #c2e59c;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #64b3f4, #c2e59c);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #64b3f4, #c2e59c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+#footer{
+    background: none;
 }
