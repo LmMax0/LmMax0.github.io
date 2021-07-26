@@ -6,7 +6,7 @@
   <link href="https://lmmax0.github.io/atom.xml" rel="self"/>
   
   <link href="https://lmmax0.github.io/"/>
-  <updated>2021-07-22T02:22:40.640Z</updated>
+  <updated>2021-07-26T02:52:02.981Z</updated>
   <id>https://lmmax0.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Redis入门</title>
+    <link href="https://lmmax0.github.io/2021/07/26/Redis%E5%85%A5%E9%97%A8/"/>
+    <id>https://lmmax0.github.io/2021/07/26/Redis%E5%85%A5%E9%97%A8/</id>
+    <published>2021-07-26T02:50:35.000Z</published>
+    <updated>2021-07-26T02:52:02.981Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Redis基础知识"><a href="#Redis基础知识" class="headerlink" title="Redis基础知识"></a>Redis基础知识</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Redis基础知识&quot;&gt;&lt;a href=&quot;#Redis基础知识&quot; class=&quot;headerlink&quot; title=&quot;Redis基础知识&quot;&gt;&lt;/a&gt;Redis基础知识&lt;/h1&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>SpringBoot暑期快速学习</title>
